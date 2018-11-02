@@ -2,8 +2,8 @@
 
 MVC .NET Project
 
-# M1 Bill PDF Extractor
-Objective: To extract data from M1 Bill PDF Format
+# PDF Extractor
+Objective: To extract data from PDF Format
 
 How to Use:
 1. Browse PDF file
